@@ -37,7 +37,7 @@ git clone https://github.com/your-username/hacktoberfest.git
 ```markdown
 git checkout -b branch-name
 ```
-Branch priority
+* Branch priority
 * Make your changes (choose from any task below)
 * Commit and push
 
